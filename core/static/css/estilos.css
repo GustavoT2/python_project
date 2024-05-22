@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(230, 230, 250); /* Roxo claro */
+    color: rgb(102, 102, 153); /* Texto em roxo pastel */
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+    background-color: rgb(245, 245, 255); /* Fundo da tabela em lavanda */
+    color: rgb(51, 51, 102); /* Texto da tabela em roxo pastel */
+}
+
+th, td {
+    border: 1px solid rgb(204, 204, 255); /* Bordas em lavanda claro */
+    padding: 8px;
+}
+
+th {
+    background-color: rgb(204, 204, 255); /* Fundo do cabeçalho em lavanda claro */
+    color: rgb(51, 51, 102); /* Texto do cabeçalho em roxo pastel */
+}
+
